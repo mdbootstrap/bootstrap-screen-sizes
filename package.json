@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-screen-sizes",
+  "version": "1.0.1",
+  "description": "Responsive Screen Sizes built with Bootstrap 5. Check default pixel widths for different screen sizes supported by Bootstrap 5 responsiveness features.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-screen-sizes.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "responsive",
+    "screen",
+    "size",
+    "sizes",
+    "bootstrap5"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-screen-sizes/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/screen-sizes/"
+}
